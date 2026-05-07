@@ -34,7 +34,7 @@ export default function Hero() {
         <Reveal delay={0.18}>
           <p className="hero-sub">
             Doppel is a humanoid version of you. When you can&apos;t make a meeting,
-            it joins on your behalf — with your context and your voice — and brings
+            it joins on your behalf, with your context and your voice, and brings
             back a complete recap.
           </p>
         </Reveal>
